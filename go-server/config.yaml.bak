@@ -1,0 +1,9 @@
+database:
+  host: postgres
+  port: 5432
+  user: postgres
+  password: minavkaria
+  dbname: demo
+  sslmode: disable
+server:
+  port: "8080"
